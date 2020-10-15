@@ -1,11 +1,16 @@
+/*  BODY */
+  
 body {
   background-color: #E8ECEF;
 }
 
+/* CLASS CENTERED */
 .centered {
     padding-top: 200px;
     text-align: center;
 }
+
+/* CLASS SECRET TEXT */
 
 .secret-text {
   text-align: center;
